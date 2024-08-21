@@ -1,0 +1,18 @@
+2024-08-21 15:50:00 Poznań Główny
+2024-08-21 16:13:00 Środa Wielkopolska
+2024-08-21 16:34:00	Jarocin
+2024-08-21 16:48:00 Pleszew
+2024-08-21 17:08:00 Ostrów Wielkopolski
+2024-08-21 17:26:00 Ostrzeszów
+2024-08-21 17:40:00 Kępno
+2024-08-21 17:55:00 Byczyna Kluczborska
+2024-08-21 18:07:00 Kluczbork
+2024-08-21 18:21:00 Olesno Śląskie
+2024-08-21 18:44:00 Lubliniec
+2024-08-21 19:28:00	Częstochowa Stradom
+2024-08-21 19:45:00 Myszków
+2024-08-21 19:57:00 Zawiercie
+2024-08-21 20:20:00 Jaworzno Szczakowa
+2024-08-21 20:30:00 Trzebinia
+2024-08-21 20:36:00 Krzeszowice
+2024-08-21 20:50:00 Kraków Główny
